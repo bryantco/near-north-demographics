@@ -1146,6 +1146,7 @@ dependencies = [
     { name = "censusdis" },
     { name = "divintseg" },
     { name = "dotenv" },
+    { name = "geopandas" },
     { name = "ipumspy" },
     { name = "polars" },
 ]
@@ -1160,6 +1161,7 @@ requires-dist = [
     { name = "censusdis", specifier = ">=1.4.2" },
     { name = "divintseg", specifier = ">=0.7.0" },
     { name = "dotenv", specifier = ">=0.9.9" },
+    { name = "geopandas", specifier = ">=1.0.1" },
     { name = "ipumspy", specifier = ">=0.7.0" },
     { name = "polars", specifier = ">=1.32.0" },
 ]
