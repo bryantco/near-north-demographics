@@ -6,10 +6,12 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "censusdis>=1.4.2",
+    "contextily>=1.6.2",
     "divintseg>=0.7.0",
     "dotenv>=0.9.9",
     "geopandas>=1.0.1",
     "ipumspy>=0.7.0",
+    "matplotlib>=3.10.6",
     "polars>=1.32.0",
 ]
 
