@@ -12,6 +12,7 @@ dependencies = [
     "geopandas>=1.0.1",
     "ipumspy>=0.7.0",
     "matplotlib>=3.10.6",
+    "pathlib>=1.0.1",
     "polars>=1.32.0",
 ]
 
