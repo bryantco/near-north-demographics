@@ -10,6 +10,7 @@ dependencies = [
     "divintseg>=0.7.0",
     "dotenv>=0.9.9",
     "geopandas>=1.0.1",
+    "imageio>=2.37.0",
     "ipumspy>=0.7.0",
     "matplotlib>=3.10.6",
     "pathlib>=1.0.1",
