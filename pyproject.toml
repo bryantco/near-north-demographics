@@ -9,6 +9,7 @@ dependencies = [
     "contextily>=1.6.2",
     "divintseg>=0.7.0",
     "dotenv>=0.9.9",
+    "folium>=0.20.0",
     "geopandas>=1.0.1",
     "imageio>=2.37.0",
     "ipumspy>=0.7.0",
