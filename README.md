@@ -6,6 +6,8 @@ An investigation of the demographics of the Near North Side, inspired by reading
 
 ## Cabrini-Green: History
 
+Cabrini-Green refers to the Cabrini-Green Homes, a Chicago Housing Authority public housing project built in 1942.
+
 ## Cabrini-Green: Demographics
 
 ![Gif of % Black Population, Near North, 2000 to 2020](assets/pct_black/pct_black_2000_2020.gif)
