@@ -8,6 +8,6 @@ An investigation of the demographics of the Near North Side, inspired by reading
 
 ## Cabrini-Green: Demographics
 
-![Gif of % Black Population, Near North, 2000 to 2020](https://github.com/bryantco/near-north-demographics/blob/main/_assets/pct_black/pct_black_2000_2020.gif)
+<img src="https://github.com/bryantco/near-north-demographics/blob/main/_assets/pct_black/pct_black_2000_2020.gif" alt="Gif of % Black Population, Near North, 2000 to 2020">
 
 See the Github pages website for this repo [here](https://bryantco.github.io/near-north-demographics/) for interactive maps of 2000, 2010, and 2020.
