@@ -4,6 +4,8 @@
 
 An investigation of the demographics of the Near North Side, inspired by reading Ben Austen's history of the Cabrini–Green Homes, [High Risers](https://www.harperacademic.com/book/9780062235077/high-risers/).
 
+See also my Substack post on my findings [here](https://bryantco.substack.com/p/the-near-north-side-cabrini-green).
+
 ## Cabrini-Green: History
 
 Cabrini-Green refers to the Cabrini-Green Homes, a Chicago Housing Authority (CHA) public housing project built in 1942, and the accompanying neighborhood of Cabrini-Green. Cabrini-Green, located just south of Division Street and north of Chicago Avenue, was initially predominantly white but experienced a large wave of white flight in the middle of the 20th century. Over time, the area and housing project saw a higher and higher proportion of black residents.
